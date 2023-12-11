@@ -9,7 +9,7 @@ Performs Label detection, face detection, Logo detection, explicit content detec
 
 ## Installation
   ```bash
-composer require wapnen/google-cloud-vision-php
+composer require v2media/google-cloud-vision
 ```
 
 ## Enable the API
